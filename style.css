@@ -1,7 +1,12 @@
 #project {
   background-color: #0099ff;
+  min-height: 100vh;
 }
 
 body {
   min-height: 2000px;
+}
+
+section {
+  min-height: 100vh;
 }
