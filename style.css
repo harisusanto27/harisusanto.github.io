@@ -10,3 +10,12 @@ body {
 section {
   min-height: 100vh;
 }
+
+i {
+  color: salmon;
+}
+
+#footer {
+  font-size: 2rem;
+  color: white;
+}
